@@ -1,0 +1,20 @@
+# PDF and EPUB test files
+*.pdf
+*.epub
+
+# Virtual environment folders (common names)
+venv/
+.venv/
+env/
+.env/
+__pyenv__/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS clutter
+.DS_Store         # macOS
+Thumbs.db         # Windows
